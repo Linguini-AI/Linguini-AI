@@ -1,0 +1,8 @@
+# Molho organizacional
+template:
+  pr: |
+    Olá, novo contribuidor! 
+    Antes de mergir, certifique-se que:
+    - [ ] Passou no teste do garfo (fork test)
+    - [ ] Não deixou a massa crua (cobertura de testes >=80%)
+    - [ ] Temperou com docstrings (comentários de chef)
